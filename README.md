@@ -71,4 +71,3 @@
 
 ---
 
-![Footer Banner](https://via.placeholder.com/1200x200.png?text=Thanks+for+Visiting!)
